@@ -1,6 +1,7 @@
 package com.cmiot.cn;
 
-public interface testInterface {
+public interface TestInterface {
 	void m();
+	
 
 }
